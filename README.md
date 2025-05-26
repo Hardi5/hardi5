@@ -13,7 +13,7 @@ I'm passionate about automating infrastructure, securing systems, and building s
 ## 🧰 Toolbox
 `Python` ‧ `Docker` ‧ `Ansible` ‧ `Terraform` ‧ `Linux`  
 `CI/CD` ‧ `Cloud (Azure, AWS, GCP)` ‧ `IaC` ‧ `Security & Compliance`  
-`Penetration Testing` ‧ `Container Security` ‧ `Bash` ‧ `Zsh`
+`Penetration Testing` ‧ `Container Security` ‧ `Bash` ‧ 
 
 ---
 

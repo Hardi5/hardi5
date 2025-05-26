@@ -26,7 +26,6 @@ I'm passionate about automating infrastructure, securing systems, and building s
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Zsh](https://img.shields.io/badge/-Zsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF5733?style=for-the-badge)
 ![Pen Testing](https://img.shields.io/badge/-PenTesting-900C3F?style=for-the-badge)
 

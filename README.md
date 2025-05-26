@@ -31,5 +31,3 @@ I'm passionate about automating infrastructure, securing systems, and building s
 
 ---
 
-📫 **Let's Connect**  
-Feel free to reach out for collaboration or just to say hi!
